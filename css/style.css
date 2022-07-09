@@ -101,6 +101,24 @@ button {
   color: var(--contacts-txt-cl);
 }
 
+
+/* logo section */
+
+.logo-link {
+  font-family: 'Raleway', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
+  color: var(--accent-txt-cl);
+  text-decoration: none;
+}
+.logo-accent {
+  color: var(--main-txt-cl);
+}
+
+
 /* hero section */
 
 .hero {
