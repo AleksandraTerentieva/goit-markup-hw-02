@@ -9,7 +9,7 @@
   --btn-txt-cl: #ffffff;
   --contacts-txt-cl: #757575;
   --title-txt-cl: #e5e5e5;
-  --main-title-txt-cl: #E5E5E5;
+  --main-title-txt-cl: #e5e5e5;
 
   /* bg colors */
   --dark-bg-cl: #2f303a;
@@ -104,7 +104,6 @@ button {
   color: var(--contacts-txt-cl);
 }
 
-
 /* logo section */
 
 .logo-link {
@@ -120,7 +119,6 @@ button {
 .logo-accent {
   color: var(--accent-txt-cl);
 }
-
 
 /* hero section */
 
@@ -141,7 +139,6 @@ button {
   color: var(--main-title-txt-cl);
 }
 
-
 /* team section */
 
 .team {
@@ -150,13 +147,12 @@ button {
 
 /* about section */
 
-
 .about-description {
   font-family: var(--main-font);
   font-style: normal;
   font-weight: 700;
   font-size: 36px;
-  line-height: calc(42 /36);
+  line-height: calc(42 / 36);
   text-align: center;
   letter-spacing: 0.03em;
 }
@@ -200,7 +196,7 @@ button {
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
-  line-height: calc(19 /16);
+  line-height: calc(19 / 16);
   text-align: center;
   letter-spacing: 0.03em;
   color: var(--main-txt-cl);
@@ -291,7 +287,7 @@ button {
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
-  line-height: calc(24 /14);
+  line-height: calc(24 / 14);
   letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.6);
 }
